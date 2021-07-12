@@ -1,0 +1,126 @@
+{
+    "/api": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/admin": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/store": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/i18n": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/updateItemNewTable": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/login": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/dashboard_graphics": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/user_profiles": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/user_documents": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/provider_profiles": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/provider_documents": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/store_profiles": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/store_documents": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/store_products": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/store_items": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/cart_items": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/delivery_type_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/delivery_icon_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/delivery_map_pin_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/service_type_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/service_type_map_pin_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/payment_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/payment_selected_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/map_pin_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/email_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/web_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/ads_mobile_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/ads_web_images": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/provider_vehicle_documents": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/default.png": {
+        "target": "http://localhost:9001",
+        "secure": false
+    },
+    "/plus_box.png": {
+        "target": "http://localhost:9001",
+        "secure": false
+    }
+}
